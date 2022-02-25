@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+.logoDivContainer {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.imageContainer {
+  width: 90px;
+}
+.imageContainer img {
+  width: 100%;
+}
+.logoText {
+  font-family: "Montserrat", sans-serif;
+  font-size: 25px;
+  color: #6454b1;
+  font-weight: 900;
+}
